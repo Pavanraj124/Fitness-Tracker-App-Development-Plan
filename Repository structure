@@ -1,0 +1,15 @@
+fitness-tracker-app/
+├── README.md               # Project documentation
+├── LICENSE                 # MIT License
+├── .gitignore              # Git ignore file
+├── src/
+│   ├── index.html          # Main HTML file
+│   ├── css/
+│   │   └── style.css       # Main stylesheet
+│   ├── js/
+│   │   └── app.js          # Main JavaScript file
+│   └── assets/             # Images/icons
+├── docs/
+│   └── report.md           # Project report
+└── samples/
+    └── output-screenshots/ # Sample app screenshots
